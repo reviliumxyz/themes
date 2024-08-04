@@ -4,7 +4,7 @@ html[data-theme='dark'] {
 	--revilium-base: #27272a;
 	--revilium-secondary: #18181b;
 	--revilium-terciary: black;
-	--revilium-surface0: black;
+	--revilium-surface0: #27272a;
 	--revilium-surface1: black;
 	--revilium-surface2: black;
 	--revilium-overlay0: #3f3f46;
