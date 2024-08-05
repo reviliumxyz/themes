@@ -11,7 +11,7 @@ html[data-theme='dark'] {
 	--revilium-overlay1: black;
 	--revilium-overlay2: black;
 	--revilium-text: white;
-	--revilium-subtext0: white;
+	--revilium-subtext0: #a5a5a5;
 	--revilium-subtext1: white;
 	--revilium-danger: #aa4042;
 	--revilium-warning: #aa7440;
