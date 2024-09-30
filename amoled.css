@@ -18,7 +18,7 @@ html[data-theme='amoled'] {
 	--revilium-success: green;
 
 	/* Statuses */
-	--revulium-status-offline: #5b5b5b;
+	--revilium-status-offline: #5b5b5b;
 	--revilium-status-online: #4042aa;
 	--revilium-status-ingame: #7f58d3;
 
